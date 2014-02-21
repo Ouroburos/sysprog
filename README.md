@@ -1,5 +1,5 @@
-+CS43203 Homework Repository
-+===========================
+CS43203 Homework Repository
+===========================
 
 Name:  Yasmine Sadid
 Email:  ysadid@kent.edu
